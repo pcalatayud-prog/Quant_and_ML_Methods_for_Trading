@@ -1,0 +1,29 @@
+The motivation of this Master’s Degree Dissertation is the opportunity to analyse a matter that links data science with trading investing methods for the financial markets, designing strategies based on quantitative algorithms and machine learning to optimize the operational investing and take the human bias out of the equation with quantitative algorithmic trading.
+
+Several decades ago, technology development in terms of hardware and software achieved the digitalization of the financial markets and the transformation in their relationship with the financial operators. The first IBM computers reached the New York Stock Exchange (NYSE) starting the digitalization path which completed its journey in 2005 when the NYSE Hybrid Marked was launched, creating a unique blend of floor-based auction and electronic trading \cite{r0_1}.
+
+On the one hand, this development has increased the range of algorithmic trading not only to the top financial organizations but also to the retail investors who have the chance to participate in this kind of trading through different digital brokers which are more and more competitive as its commissions have continuously decreased.
+
+On the other hand, the development of complex technical algorithms supported by statistics models and machine learning techniques has increased the appeal of the market operators in these methods. Market actors want to utilize all these new techniques to search for market inefficiencies that can just be found through powerful computational algorithms, optimizing decision-making when it comes to investing in the markets.\\
+
+This document is structured in six chapters
+
+\begin{itemize}
+
+\item In the first chapter, different technical analysis methods for trading are shown. Chartism trading is explored briefly, and the history and evolution of quantitative trading are explained in detail. Lastly, the concept of quantitative algorithmic trading and its particularities in comparison with discretionary trading is delved into.
+
+\item In the second chapter, financial markets and financial assets are described. Furthermore, primary and secondary markets along with the different trends and their categories are illustrated.
+
+\item In the third chapter, extraction, load, and data transformation processes are explained as well the different data sets to be used are described.
+
+\item In the fourth chapter, TBC
+
+\item In the fifth chapter, TBC
+
+\item In the sixth chapter, TBC
+
+\end{itemize}
+
+\noindent Scripts have been coded in Python, and it can be downloaded from Git-Hub repository link in the annex at the end of the work.
+
+\end{titlepage} 
